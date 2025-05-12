@@ -1,0 +1,12 @@
+{
+  "name": "qa-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sign-in.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
